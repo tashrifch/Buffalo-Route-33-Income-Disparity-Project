@@ -13,4 +13,6 @@ Here's the idea- find the census blocks that are close (say 300 feet) from the K
 
 "
 
+The exact data used is also provided. 
+
 Project idea by the previous director of Data Analytics at Canisius University Dr.H David Sheets. 
